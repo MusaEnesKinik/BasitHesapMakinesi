@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Toplama(View a) {
-        
+        //commit test
 
             if (sayı1Text.getText().toString().matches("") || sayı2Text.getText().toString().matches("")) {
 
